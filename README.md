@@ -31,3 +31,7 @@ https://code-alpha-music-player-pearl-mu.vercel.app
 ```bash
 npm install
 npm run dev
+
+🎯 Internship Task
+
+Task 4: Music Player (CodeAlpha Frontend Internship)
