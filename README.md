@@ -5,7 +5,7 @@ A modern music player web application built using **React + Vite** as part of th
 ---
 
 ## 🚀 Live Demo
-https://codealpha-musicplayer.vercel.app/
+https://code-alpha-music-player-pearl-mu.vercel.app
 
 ---
 
