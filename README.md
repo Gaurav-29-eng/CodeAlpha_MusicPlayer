@@ -27,6 +27,11 @@ https://code-alpha-music-player-pearl-mu.vercel.app
 
 ---
 
+## 📸 Screenshot
+(Add screenshot here)  
+
+---
+
 ## ⚙️ Run Locally
 ```bash
 npm install
