@@ -32,8 +32,19 @@ https://code-alpha-music-player-pearl-mu.vercel.app
 
 ---
 
-## ⚙️ Run Locally
+## ⚙️ How to Run Locally
+
 ```bash
+# Clone the repository
+git clone https://github.com/Gaurav-29-eng/CodeAlpha_MusicPlayer
+
+# Navigate into project
+cd CodeAlpha_MusicPlayer
+
+# Install dependencies
 npm install
+
+# Run development server
 npm run dev
+
 
