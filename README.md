@@ -28,7 +28,7 @@ https://code-alpha-music-player-pearl-mu.vercel.app
 ---
 
 ## 📸 Screenshot
-(Add screenshot here)  
+![MUSIC PLAYER UI](./musicplayer-ui.png)  
 
 ---
 
