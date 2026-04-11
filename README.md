@@ -32,6 +32,15 @@ https://code-alpha-music-player-pearl-mu.vercel.app
 
 ---
 
+🙋‍♂️ Author
+
+Gaurav Salunke
+
+GitHub: https://github.com/Gaurav-29-eng
+LinkedIn: www.linkedin.com/in/gaurav-salunke-cse27
+
+---
+
 ## ⚙️ How to Run Locally
 
 ```bash
